@@ -5,7 +5,7 @@ Java 21 Virtual Thread와 Platform Thread의 동시성 처리 차이를 확인�
 ## 목적
 
 - Platform Thread Pool과 Virtual Thread의 동작 방식 비교
-- Blocking I/O 상황에서 동시 처리량 차이 확인
+- Blocking I/O 상황에서 동시 처리 차이 확인
 - Thread Pool 크기에 따른 처리 시간 변화 확인
 
 ## 조건
